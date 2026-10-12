@@ -5,7 +5,8 @@
 - **CCID:** `whitfor1`
 
 ##
-[!][Lab 6 test results. 5 tests ran in total.](/WizardTest.png)
+![](/WizardTest.png)
+*Lab 6 test results. 5 tests ran, all passed.*
 
 
 ## References and Resources
