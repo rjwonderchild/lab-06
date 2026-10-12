@@ -4,8 +4,12 @@
 - **Full Name:** `Riley Whitford`
 - **CCID:** `whitfor1`
 
+##
+[!][Lab 6 test results. 5 tests ran in total.](/WizardTest.png)
+
+
 ## References and Resources
-List any resources used here, or simply put `N/A` if not applicable.
+`N/A`
 
 ## Verbal Collaboration
-List students' names and CCIDs here, or simply put `N/A` if not applicable. 
+`N/A`  
